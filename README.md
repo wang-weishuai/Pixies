@@ -4,6 +4,8 @@ A front-end monkey testing suite based on Python webdriver.
 
 Watch out for the flying pixies!
 
+
+![image]()
 ### Usage
 
 #### Quick start
