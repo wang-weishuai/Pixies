@@ -5,7 +5,7 @@ A front-end monkey testing suite based on Python webdriver.
 Watch out for the flying pixies!
 
 
-![image]()
+![image](https://github.com/wang-weishuai/Pixies/blob/main/image/pixies1.png)
 ### Usage
 
 #### Quick start
@@ -97,3 +97,6 @@ Different pixie species do different things to the page.
 #### Toucher
 
 - Imitate touch events, supporting path touching
+
+## Example
+![](https://github.com/wang-weishuai/Pixies/blob/main/image/pixies.gif)
