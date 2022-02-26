@@ -95,9 +95,3 @@ Different pixie species do different things to the page.
 #### Toucher
 
 - Imitate touch events, supporting path touching
-
-#### Dragger
-
-- [TODO]
-# Pixies
-# Pixies
